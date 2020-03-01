@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="delete_medias">
+        <item quantity="other">Poista mediat näistä keskusteluista</item>
+        <item quantity="one">Poista mediat tästä keskustelusta</item>
+    </plurals>
+</resources>

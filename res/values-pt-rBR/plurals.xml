@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="delete_medias">
+        <item quantity="other">Apagar os arquivos de mídia destas conversas</item>
+        <item quantity="one">Apagar os arquivos de mídia desta conversa</item>
+    </plurals>
+</resources>

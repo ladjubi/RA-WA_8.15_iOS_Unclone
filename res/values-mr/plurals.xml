@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="delete_medias">
+        <item quantity="other">या गप्पांमधील मीडिया हटवा</item>
+        <item quantity="one">या गप्पामधील मीडिया हटवा</item>
+    </plurals>
+    <plurals name="payment_pin_retry_attempts">
+        <item quantity="other">‎%d प्रयत्न बाकी आहेत</item>
+        <item quantity="one">‎%d प्रयत्न बाकी आहे</item>
+    </plurals>
+    <plurals name="payments_settings_payment_requests">
+        <item quantity="other">प्रलंबित विनंत्या</item>
+        <item quantity="one">प्रलंबित विनंती</item>
+    </plurals>
+</resources>

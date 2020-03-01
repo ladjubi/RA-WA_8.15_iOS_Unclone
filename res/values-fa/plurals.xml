@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="delete_medias">
+        <item quantity="other">‏حذف رسانه از این گفتگوها</item>
+        <item quantity="one">‏حذف رسانه از این گفتگو</item>
+    </plurals>
+</resources>

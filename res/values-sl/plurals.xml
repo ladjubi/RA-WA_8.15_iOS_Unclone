@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="delete_medias">
+        <item quantity="other">Izbriši medije v teh klepetih</item>
+        <item quantity="one">Izbriši medije v tem klepetu</item>
+    </plurals>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="delete_medias">
+        <item quantity="other">이 대화에서 미디어 삭제</item>
+    </plurals>
+</resources>

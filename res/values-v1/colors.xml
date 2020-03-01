@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="RaPrimary">#fffbfbfb</color>
+    <color name="RaAccent">#ff0575ff</color>
+    <color name="RaSetting">#ff000000</color>
+    <color name="RaCall">@color/RaPrimary</color>
+    <color name="RaActionbar">#ff000000</color>
+    <color name="RaProfile">#ff000000</color>
+    <color name="RaProfileSub">#ff757575</color>
+    <color name="RaSettingSub">#ff757575</color>
+    <color name="RaDivider">#ff757575</color>
+    <color name="floating_edit_text_color">#ffc8c8c8</color>
+    <color name="floating_edit_text_highlighted_color">#ff3f51b5</color>
+    <color name="floating_edit_text_error_color">#ffdb4437</color>
+</resources>

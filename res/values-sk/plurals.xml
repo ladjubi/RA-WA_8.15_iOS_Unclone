@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="delete_medias">
+        <item quantity="other">Odstrániť médiá z týchto chatov</item>
+        <item quantity="one">Odstrániť médiá z tohto chatu</item>
+    </plurals>
+</resources>

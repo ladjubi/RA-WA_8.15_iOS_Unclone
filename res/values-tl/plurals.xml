@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="delete_medias">
+        <item quantity="other">Burahin ang mga media sa mga chat</item>
+        <item quantity="one">Burahin ang mga media sa chat</item>
+    </plurals>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="delete_medias">
+        <item quantity="other">Bu söhbətlərdə medianı silin</item>
+        <item quantity="one">Bu söhbətdə medianı silin</item>
+    </plurals>
+</resources>

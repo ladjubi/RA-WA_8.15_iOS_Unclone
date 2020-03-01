@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="delete_medias">
+        <item quantity="other">Ta bort media från dessa chattar</item>
+        <item quantity="one">Ta bort media från denna chatt</item>
+    </plurals>
+</resources>

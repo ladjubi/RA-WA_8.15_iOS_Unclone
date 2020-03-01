@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="delete_medias">
+        <item quantity="other">Xoá media trong các cuộc trò chuyện này</item>
+    </plurals>
+</resources>

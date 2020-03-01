@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="delete_medias">
+        <item quantity="other">এই চ্যাটের মিডিয়া মুছে দিন</item>
+    </plurals>
+    <plurals name="payment_pin_retry_attempts">
+        <item quantity="other">আর %d বার চেষ্টা করতে পারবেন</item>
+    </plurals>
+    <plurals name="payments_settings_payment_requests">
+        <item quantity="other">বাকি থাকা অনুরোধ</item>
+    </plurals>
+</resources>

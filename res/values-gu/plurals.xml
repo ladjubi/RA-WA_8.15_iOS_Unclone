@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="delete_medias">
+        <item quantity="other">આ ચેટમાંથી મીડિયા ડિલીટ કરો</item>
+    </plurals>
+    <plurals name="payment_pin_retry_attempts">
+        <item quantity="other">‎%d પ્રયત્નો બાકી</item>
+        <item quantity="one">‎%d પ્રયત્ન બાકી</item>
+    </plurals>
+    <plurals name="payments_settings_payment_requests">
+        <item quantity="other">બાકી વિનંતીઓ</item>
+        <item quantity="one">બાકી વિનંતી</item>
+    </plurals>
+</resources>

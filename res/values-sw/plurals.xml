@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="delete_medias">
+        <item quantity="other">Futa media kwenye soga hizi</item>
+        <item quantity="one">Futa media kwenye soga hii</item>
+    </plurals>
+</resources>

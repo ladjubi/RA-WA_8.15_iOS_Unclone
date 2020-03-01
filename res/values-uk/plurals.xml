@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="delete_medias">
+        <item quantity="other">Видалити медіафайли в цих бесідах</item>
+        <item quantity="one">Видалити медіафайли в цій бесіді</item>
+    </plurals>
+</resources>

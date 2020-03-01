@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="delete_medias">
+        <item quantity="other">ಈ ಸಂಭಾಷಣೆಗಳಲ್ಲಿನ ಮಾಧ್ಯಮವನ್ನು ಅಳಿಸಿ</item>
+        <item quantity="one">ಈ ಸಂಭಾಷಣೆಯಲ್ಲಿನ ಮಾಧ್ಯಮವನ್ನು ಅಳಿಸಿ</item>
+    </plurals>
+    <plurals name="payment_pin_retry_attempts">
+        <item quantity="other">‎%d ಪ್ರಯತ್ನಗಳು ಉಳಿದಿವೆ</item>
+        <item quantity="one">‎%d ಪ್ರಯತ್ನ ಉಳಿದಿದೆ</item>
+    </plurals>
+    <plurals name="payments_settings_payment_requests">
+        <item quantity="other">ಬಾಕಿಯಿರುವ ವಿನಂತಿಗಳು</item>
+        <item quantity="one">ಬಾಕಿಯಿರುವ ವಿನಂತಿ</item>
+    </plurals>
+</resources>

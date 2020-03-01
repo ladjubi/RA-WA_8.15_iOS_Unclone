@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="delete_medias">
+        <item quantity="other">Ștergeți fișierele media din aceste conversații</item>
+        <item quantity="one">Ștergeți fișierele media din această conversație</item>
+    </plurals>
+</resources>

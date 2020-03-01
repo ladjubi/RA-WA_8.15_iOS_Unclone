@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="delete_medias">
+        <item quantity="other">Vee media in hierdie gesprekke uit</item>
+        <item quantity="one">Vee media in hierdie gesprek uit</item>
+    </plurals>
+</resources>

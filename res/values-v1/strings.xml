@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="customactivityoncrash_error_activity_restart_app">Restart</string>
+    <string name="customactivityoncrash_error_activity_error_details_title">Error Details</string>
+    <string name="customactivityoncrash_error_activity_error_details_close">Close</string>
+    <string name="customactivityoncrash_error_activity_error_details_copy">Copy Log Error</string>
+    <string name="customactivityoncrash_error_activity_error_details_copied">Script Copied</string>
+    <string name="customactivityoncrash_error_activity_error_details_clipboard_label">Error Information</string>
+    <string name="Aero_Zamanlayici_Baslik">Message Scheduler</string>
+    <string name="Aero_Zamanlayici_isim">Contact name</string>
+    <string name="Aero_Zamanlayici_mesaj">Message to forward</string>
+    <string name="Aero_Zamanlayici_tarih">Date for send message</string>
+    <string name="Aero_Zamanlayici_sontarih">Expiration date</string>
+    <string name="Aero_Zamanlayici_zaman">Time for send message</string>
+    <string name="Aero_Zamanlayici_zamanla">Set Scheduler</string>
+    <string name="Aero_Zamanlayici_kaydet">Save Scheduler Message</string>
+    <string name="Aero_Zamanlayici_bzkrt">"No, buddy, I'm too lazy to add this feature. After I eat my sesame buns, maybe I can add this."</string>
+    <string name="Aero_Zamanlayici_sunagidecek">"To: "</string>
+    <string name="Aero_Zamanlayici_ayarlandi">OK, the scheduled message is set.</string>
+    <string name="Aero_Zamanlayici_gonderildi">Scheduled message sent.</string>
+    <string name="Aero_Zamanlayici_sil">Delete scheduled message</string>
+    <string name="Aero_Zamanlayici_duzenle">Edit scheduled message</string>
+    <string name="Aero_Zamanlayici_temizle">Clear all</string>
+    <string name="Aero_Zamanlayici_olustur">Create a scheduler</string>
+    <string name="Aero_Zamanlayici_hata">Enter a required value.</string>
+    <string name="Aero_OtoMesaj_Baslik">Auto Reply</string>
+    <string name="Aero_OtoMesaj_gelen">"Receive: "</string>
+    <string name="Aero_OtoMesaj_gidecek">"Send: "</string>
+    <string name="Aero_OtoMesaj_etkindevredisi">enable/disable</string>
+    <string name="Aero_OtoMesaj_gelecekmesaj">Incoming message</string>
+    <string name="Aero_OtoMesaj_icinde">Reply if contains</string>
+    <string name="Aero_OtoMesaj_esit">Reply if equal</string>
+    <string name="Aero_OtoMesaj_hepsine">Reply to all messages</string>
+    <string name="Aero_OtoMesaj_sablonlar">Templates</string>
+    <string name="Aero_OtoMesaj_cevaplanmali">Your text here will be answered.</string>
+    <string name="Aero_OtoMesaj_mesaj1">Auto reply message</string>
+    <string name="Aero_OtoMesaj_mesaj2">Your text here will be sent.</string>
+    <string name="Aero_OtoMesaj_gecikme">Delay message</string>
+    <string name="Aero_OtoMesaj_gecikmesaniye">Delay in seconds</string>
+    <string name="Aero_OtoMesaj_suangonder">Receiver</string>
+    <string name="Aero_OtoMesaj_herikisine">All</string>
+    <string name="Aero_OtoMesaj_grup">Groups</string>
+    <string name="Aero_OtoMesaj_kisiler">Contacts</string>
+    <string name="Aero_OtoMesaj_ozelzaman">Specific times</string>
+    <string name="Aero_OtoMesaj_baslangic">Start time</string>
+    <string name="Aero_OtoMesaj_son">End time</string>
+    <string name="Aero_OtoMesaj_ozelkisi">Specific contacts/groups</string>
+    <string name="Aero_OtoMesaj_haric">Except contacts/groups</string>
+    <string name="Aero_OtoMesaj_ayarla">Set Auto Reply</string>
+    <string name="Aero_OtoMesaj_hata2">Start time cannot be equal to end time.</string>
+    <string name="Aero_OtoMesaj_hata3">End time cannot be less than start time.</string>
+    <string name="Aero_otoyanit_sil">Delete auto reply message</string>
+    <string name="Aero_otoyanit_duzenle">Edit auto reply message</string>
+    <string name="AeroBilgi_nasilkullanilir1">All About Auto Reply</string>
+    <string name="AeroBilgi_baslik1">What is Auto Reply?</string>
+    <string name="AeroBilgi_aciklama1">You can set automatic response of incoming messages with pre-recorded replies with the auto reply feature. This way, your phone automatically responds to incoming messages in the way you specify, without ever touching your phone.</string>
+    <string name="AeroBilgi_baslik2">What is \"Reply if contains\"?</string>
+    <string name="AeroBilgi_aciklama2">"If the text you type in the top space is contains in the incoming message, the bot will automatically send the answer you have already set.
+
+Example: When you get a message saying \"Are you okay\", you want to answer \"I'm fine\".
+If you set it to Reply if contains, when you get a message saying, \"How are you, are you okay\", the bot will automatically reply \"I'm fine\" because the words \"Are you okay\" contain in the message."</string>
+    <string name="AeroBilgi_baslik3">What is \"Reply if equal\"?</string>
+    <string name="AeroBilgi_aciklama3">"If the text you type in the top space matches the incoming message (if it is the same), the bot will automatically send the answer you have already set.
+
+Example: When you get a message saying \"Are you okay\", you want to answer \"I'm fine\". The bot will respond only when you receive the message \"Are you okay\"."</string>
+    <string name="AeroBilgi_baslik4">What is \"Reply to all messages\"?</string>
+    <string name="AeroBilgi_aciklama4">It will send the response you set to all messages you receive.</string>
+    <string name="AeroBilgi_baslik5">What is \"Delay message\"?</string>
+    <string name="AeroBilgi_aciklama5">Bot will send the responses you set after waiting for the specified time.</string>
+    <string name="AeroBilgi_baslik6">What is \"Receiver\"?</string>
+    <string name="AeroBilgi_aciklama6">Allows you to select the type of recipient you want the bot to respond to. You can have them respond to groups only, contacts only or both.</string>
+    <string name="AeroBilgi_baslik7">What is \"Specific times\"?</string>
+    <string name="AeroBilgi_aciklama7">You can have the bot run within the time interval you want. If you set a start time and end time, the bot will only reply to messages within the range of start time and end time.</string>
+    <string name="AeroBilgi_baslik8">What is \"Specific contacts/groups\"?</string>
+    <string name="AeroBilgi_aciklama8">Bot will respond only to the person or group you have set.</string>
+    <string name="AeroBilgi_baslik9">What is \"Except contacts/groups\"?</string>
+    <string name="AeroBilgi_aciklama9">Bot does not send a response to the group or person you have set except.</string>
+    <string name="repetition_1">Once</string>
+    <string name="repetition_2">Daily</string>
+    <string name="repetition_3">Weekly</string>
+    <string name="repetition_4">Monthly</string>
+    <string name="repetition_5">Yearly</string>
+    <string name="schedule_title_activity_edit">Edit Message</string>
+</resources>

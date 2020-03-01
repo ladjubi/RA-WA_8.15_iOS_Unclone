@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="conversation_style_toolbar">
+        <item>Stock</item>
+        <item>Stock Centered</item>
+        <item>Wamod</item>
+        <item>Wamod Centered</item>
+    </string-array>
+    <string-array name="conversation_style_toolbar_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="home_theme">
+        <item>Home Style V1</item>
+        <item>Home Style V2</item>
+        <item>Home Style V3</item>
+        <item>Home Style V4</item>
+        <item>Home Style V5</item>
+    </string-array>
+    <string-array name="home_theme_values">
+        <item>yousef</item>
+        <item>yowa</item>
+        <item>waca</item>
+        <item>nlmods</item>
+        <item>wamd</item>
+    </string-array>
+    <string-array name="em_set">
+        <item>Emoji Stock</item>
+    </string-array>
+    <string-array name="em_setV">
+        <item>yousef</item>
+    </string-array>
+    <string-array name="repetition_alert">
+        <item>@string/repetition_1</item>
+        <item>@string/repetition_2</item>
+        <item>@string/repetition_3</item>
+        <item>@string/repetition_4</item>
+        <item>@string/repetition_5</item>
+    </string-array>
+</resources>

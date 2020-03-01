@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="delete_medias">
+        <item quantity="other">ఈ చాట్స్‌లో మీడియాను తొలగించు</item>
+        <item quantity="one">ఈ చాట్‌లో మీడియాను తొలగించు</item>
+    </plurals>
+    <plurals name="payment_pin_retry_attempts">
+        <item quantity="other">‎%d ప్రయత్నాలు మిగిలి ఉన్నాయి</item>
+        <item quantity="one">‎%d ప్రయత్నం మిగిలి ఉంది</item>
+    </plurals>
+    <plurals name="payments_settings_payment_requests">
+        <item quantity="other">పెండింగ్‌లో ఉన్న అభ్యర్థనలు</item>
+        <item quantity="one">పెండింగ్‌లో ఉన్న అభ్యర్థన</item>
+    </plurals>
+</resources>

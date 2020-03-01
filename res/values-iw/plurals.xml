@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="delete_medias">
+        <item quantity="other">"‏מחק את המדיה בצ'אטים אלה"</item>
+        <item quantity="one">"‏מחק את המדיה בצ'אט זה"</item>
+    </plurals>
+</resources>

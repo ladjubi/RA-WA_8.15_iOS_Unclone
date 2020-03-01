@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="delete_medias">
+        <item quantity="other">Eliminar los archivos de estos chats</item>
+        <item quantity="one">Eliminar los archivos de este chat</item>
+    </plurals>
+    <plurals name="payment_pin_retry_attempts">
+        <item quantity="other">Quedan %d intentos</item>
+        <item quantity="one">Queda %d intento</item>
+    </plurals>
+    <plurals name="payments_settings_payment_requests">
+        <item quantity="other">Solicitudes pendientes</item>
+        <item quantity="one">Solicitud pendiente</item>
+    </plurals>
+</resources>

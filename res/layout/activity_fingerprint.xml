@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_margin="@dimen/fingerprint_layout_margin"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center_horizontal" android:layout_gravity="center_horizontal" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <com.whatsapp.WaImageView android:layout_width="@dimen/fingerprint_lock_icon_size" android:layout_height="@dimen/fingerprint_lock_icon_size" android:layout_marginTop="@dimen/fingerprint_lock_icon_margin_top" android:src="@drawable/ic_wa_locked" android:tint="@color/fingerprint_lock_icon" />
+        <com.whatsapp.WaTextView android:textSize="@dimen/fingerprint_title_text_size" android:textColor="@color/settings_item_title_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/fingerprint_title_margin_top" android:text="@string/fingerprint_locked_title" />
+    </LinearLayout>
+    <com.whatsapp.FingerprintView android:layout_gravity="center" android:id="@id/fingerprint_view" android:padding="@dimen/fingerprint_view_vertical_padding" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+</FrameLayout>

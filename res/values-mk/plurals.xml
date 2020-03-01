@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="delete_medias">
+        <item quantity="other">Избриши ги фајловите во овие разговори</item>
+        <item quantity="one">Избриши ги фајловите во овој разговор</item>
+    </plurals>
+</resources>

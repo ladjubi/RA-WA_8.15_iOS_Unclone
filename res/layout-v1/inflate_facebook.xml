@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_centerInParent="true"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:custom="http://schemas.android.com/apk/res-auto">
+    <WebView android:id="@id/web_view_gg" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginBottom="45.0dip" />
+    <LinearLayout android:orientation="horizontal" android:background="@color/RaPrimary" android:layout_width="fill_parent" android:layout_height="45.0dip" android:layout_alignParentBottom="true" android:layout_centerInParent="true">
+        <ImageButton android:gravity="center|left" android:layout_gravity="center|left" android:id="@id/button_back" android:background="@null" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ra_fb_back" android:tint="@color/RaAccent" android:layout_weight="1.0" />
+        <ImageButton android:gravity="center" android:layout_gravity="center" android:id="@id/button_home" android:background="@null" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ra_fb_home" android:tint="@color/RaAccent" android:layout_weight="1.0" />
+        <ImageButton android:gravity="center|right" android:layout_gravity="center|right" android:id="@id/button_forward" android:background="@null" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ra_fb_fwd" android:tint="@color/RaAccent" android:layout_weight="1.0" />
+    </LinearLayout>
+</RelativeLayout>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="delete_medias">
+        <item quantity="other">Scrios meáin sna comhráite seo</item>
+        <item quantity="one">Scrios meáin sa chomhrá seo</item>
+    </plurals>
+</resources>

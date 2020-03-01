@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="delete_medias">
+        <item quantity="other">इन चैट में मीडिया मिटाएँ</item>
+        <item quantity="one">इस चैट में मीडिया मिटाएँ</item>
+    </plurals>
+    <plurals name="payment_pin_retry_attempts">
+        <item quantity="other">‎%d कोशशें बाकी</item>
+        <item quantity="one">‎%d कोशिश बाकी</item>
+    </plurals>
+    <plurals name="payments_settings_payment_requests">
+        <item quantity="other">किसी भी अनुरोध का जवाब नहीं दिया गया</item>
+        <item quantity="one">अनुरोध का जवाब नहीं दिया गया</item>
+    </plurals>
+</resources>

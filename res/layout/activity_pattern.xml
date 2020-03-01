@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/relmain" android:background="@drawable/lockw" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <include layout="@layout/yo_toolbar" />
+    <ImageView android:layout_gravity="center_horizontal" android:id="@id/profile_image" android:layout_width="84.0dip" android:layout_height="84.0dip" android:layout_marginTop="32.0dip" android:src="@drawable/icon_02" />
+    <TextView android:textSize="18.0sp" android:layout_gravity="center" android:id="@id/div2" android:background="#50ffffff" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/reset" />
+    <com.whatsapp.youbasha.ui.lockV2.patternlockview.PatternLockView android:layout_gravity="center" android:id="@id/pattern_lock_view" android:layout_width="320.0dip" android:layout_height="320.0dip" android:layout_marginTop="32.0dip" />
+</LinearLayout>

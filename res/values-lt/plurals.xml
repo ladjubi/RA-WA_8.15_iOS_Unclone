@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="delete_medias">
+        <item quantity="other">Ištrinkite medijos failus šiuose pokalbiuose</item>
+        <item quantity="one">Ištrinkite medijos failus šiame pokalbyje</item>
+    </plurals>
+</resources>

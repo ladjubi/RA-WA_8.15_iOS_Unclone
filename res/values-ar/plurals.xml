@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="delete_medias">
+        <item quantity="other">‏حذف الوسائط الخاصة بهذه الدردشات</item>
+        <item quantity="zero">‏حذف الوسائط الخاصة بهذه الدردشة</item>
+        <item quantity="one">‏حذف الوسائط الخاصة بهذه الدردشة</item>
+        <item quantity="two">‏حذف الوسائط الخاصة بهاتين الدردشتين</item>
+    </plurals>
+</resources>

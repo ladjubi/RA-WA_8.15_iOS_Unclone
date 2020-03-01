@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Text" parent="@android:style/TextAppearance">
+        <item name="android:textColor">#ff000000</item>
+        <item name="android:shadowColor">@color/white</item>
+        <item name="android:shadowDx">1.0</item>
+        <item name="android:shadowDy">1.0</item>
+        <item name="android:shadowRadius">0.0</item>
+        <item name="android:lineSpacingMultiplier">1.25</item>
+    </style>
+    <style name="Text.Bullet" parent="@style/Text.Steps">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#ff000000</item>
+        <item name="android:paddingRight">4.0dip</item>
+        <item name="android:text">@string/contacts_help_bullet</item>
+    </style>
+    <style name="Text.Steps" parent="@style/Text">
+        <item name="android:textSize">15.0sp</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">#ff000000</item>
+        <item name="android:gravity">left</item>
+        <item name="android:paddingBottom">6.0dip</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:shadowColor">@color/white</item>
+        <item name="android:shadowDx">1.0</item>
+        <item name="android:shadowDy">1.0</item>
+        <item name="android:shadowRadius">0.0</item>
+        <item name="android:lineSpacingMultiplier">1.0</item>
+    </style>
+    <style name="MyEditTextTheme">
+        <item name="colorControlNormal">@color/RaAccent</item>
+    </style>
+    <style name="AeroMODS_Text.Aciklama" parent="@style/Text">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/RaAccent</item>
+        <item name="android:gravity">left</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:shadowColor">@color/white</item>
+        <item name="android:shadowDx">1.0</item>
+        <item name="android:shadowDy">1.0</item>
+        <item name="android:shadowRadius">0.0</item>
+        <item name="android:lineSpacingMultiplier">1.25</item>
+    </style>
+    <style name="Aero_baslik_alti" parent="@android:style/Widget.TextView">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:textColor">@color/RaAccent</item>
+        <item name="android:layout_gravity">center|left</item>
+        <item name="android:paddingLeft">65.0dip</item>
+        <item name="android:paddingRight">65.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:paddingStart">65.0dip</item>
+        <item name="android:paddingEnd">65.0dip</item>
+    </style>
+</resources>

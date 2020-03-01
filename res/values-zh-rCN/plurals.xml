@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="delete_medias">
+        <item quantity="other">删除这些对话中的媒体文件</item>
+    </plurals>
+</resources>

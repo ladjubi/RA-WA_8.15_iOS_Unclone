@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="delete_medias">
+        <item quantity="other">Supprimer les médias de ces discussions</item>
+        <item quantity="one">Supprimer les médias de cette discussion</item>
+    </plurals>
+</resources>
